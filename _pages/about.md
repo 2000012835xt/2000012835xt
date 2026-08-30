@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my homepage. I am Tong Xie, a second-year Ph.D. student at the School of Integrated Circuits, Peking University.
 
-I received the B.S. degree in Microelectronic Science and Engineering from the School of EECS at Peking University, Beijing, China, in 2024. I am currently pursuing the Ph.D. degree at the School of Integrated Circuits under the supervision of Prof. Runsheng Wang and Prof. Meng Li.
+I received the B.S. degree in Microelectronic Science and Engineering from the School of EECS at Peking University, Beijing, China, in 2024. I am currently pursuing a Ph.D. degree at the School of Integrated Circuits under the supervision of Prof. Runsheng Wang and Prof. Meng Li.
 
 My research focuses on reliable and efficient AI accelerator design.
 
@@ -60,7 +60,8 @@ First-Author Works
 Honors and Achievements
 ======
 
-
+- May 2026: Peking University President’s Scholarship
+- Mar 2026: Endeavor Scholarship (Special Program for Integrated Circuit Talents)
 - Dec 2025: Award for Academic Excellence at Peking University
 - Mar 2024: Outstanding Undergraduate Research Training Program Award of Peking University
 - Dec 2022: Lee Wai Wing Scholarship
@@ -68,4 +69,4 @@ Honors and Achievements
 - Dec 2021: Award for Academic Excellence at Peking University
 - Oct 2019: Bronze Medal of 36th CPhO
 
-For full publication list, please visit the [Publications](/publications/) page.
+For the full publication list, please visit the [Publications](/publications/) page.
